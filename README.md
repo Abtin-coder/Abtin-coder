@@ -29,17 +29,14 @@
 
 ---
 
-## 📊 Language Proficiency
+## 📊 Programming Skills
 
 ```mermaid
-%%{init: {'theme':'forest'}}%%
-line
-    title Programming Proficiency
-    "HTML/CSS": 85
-    "JavaScript": 90
-    "React": 85
-    "Node.js": 80
-    "Express": 75
-    "Tailwind CSS": 80
-    "Python": 70
-
+pie title Programming Skills
+  "HTML/CSS 85%": 85
+  "JavaScript 90%": 90
+  "React 85%": 85
+  "Node.js 80%": 80
+  "Express 75%": 75
+  "Tailwind CSS 80%": 80
+  "Python 70%": 70
