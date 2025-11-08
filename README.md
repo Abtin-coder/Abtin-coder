@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abtin Almasi!  
 
-![header](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
+![header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZzbmhqZjNkeGxodWlveGhzcmllN2QxaHdkcWVjeGtpOGJvamc0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif)
 
 👋 Hello — front-end developer, 15 years old.  
 💻 Skilled in **HTML, CSS, JavaScript, React, Node.js, Express, Tailwind CSS, Python**, and **Figma**.  
