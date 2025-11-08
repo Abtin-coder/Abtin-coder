@@ -40,3 +40,8 @@ pie title Programming Skills
   "Express 75%": 75
   "Tailwind CSS 80%": 80
   "Python 70%": 70
+
+
+pie title English Proficiency
+  "English 100%": 100
+
