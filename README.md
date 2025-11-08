@@ -33,13 +33,33 @@
 
 ## 📊 Programming Skills
 
-```mermaid
-pie title Programming Skills
-  "HTML/CSS 85%": 85
-  "JavaScript 90%": 90
-  "React 85%": 85
-  "Node.js 80%": 80
-  "Express 75%": 75
-  "Tailwind CSS 80%": 80
-  "Python 70%": 70
+**HTML/CSS**       ▓▓▓▓▓▓▓▓░░ 85%  
+**JavaScript**     ▓▓▓▓▓▓▓▓▓░ 90%  
+**React**          ▓▓▓▓▓▓▓▓░░ 85%  
+**Node.js**        ▓▓▓▓▓▓▓░░░ 80%  
+**Express**        ▓▓▓▓▓▓░░░░ 75%  
+**Tailwind CSS**   ▓▓▓▓▓▓▓░░░ 80%  
+**Python**         ▓▓▓▓▓░░░░░ 70%  
+**Figma**          ▓▓▓▓▓▓▓▓▓░ 90%
 
+---
+
+## 🌐 Languages
+
+**English**        ▓▓▓▓▓▓▓▓▓▓ 100%  
+**Persian**        ▓▓▓▓▓▓▓▓▓▓ 100%
+
+---
+
+## 🎉 Fun & Animations
+
+![coding](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)  
+![animation](https://media.giphy.com/media/26FPnsRwwBo2o3xYY/giphy.gif)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abtin-almasi)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/abtin-almasi)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/abtin-almasi)
