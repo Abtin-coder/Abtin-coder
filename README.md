@@ -51,12 +51,7 @@
 
 ---
 
-## 🎉 Fun & Animations
 
-![coding](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)  
-![animation](https://media.giphy.com/media/26FPnsRwwBo2o3xYY/giphy.gif)
-
----
 
 ## 📫 Connect with Me
 
