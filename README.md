@@ -3,10 +3,12 @@
 ![header](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
 
 👋 Hello — front-end developer, 15 years old.  
-💻 Skilled in JavaScript, React, Node.js, Express, Tailwind, Python, HTML, CSS.  
-🎨 Designer skilled in Figma.  
+💻 Skilled in **HTML, CSS, JavaScript, React, Node.js, Express, Tailwind CSS, Python**, and **Figma**.  
 🎯 Focused on creating accessible and performant UIs.  
+📚 Passionate about learning modern web technologies.  
+🔧 I enjoy turning designs into polished interfaces.  
 🌱 Currently building projects to grow my portfolio.  
+🌐 **Languages:** English – Fluent ✅, Persian – Native 🟢  
 📫 Gmail: wpabtin@gmail.com  
 
 ---
@@ -40,5 +42,4 @@ pie title Programming Skills
   "Express 75%": 75
   "Tailwind CSS 80%": 80
   "Python 70%": 70
-
 
