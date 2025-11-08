@@ -42,6 +42,3 @@ pie title Programming Skills
   "Python 70%": 70
 
 
-pie title English Proficiency
-  "English 100%": 100
-
